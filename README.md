@@ -1,7 +1,7 @@
 # Algorithms
 A list of algorithms I have worked on for fun and for learning. Here you will find the links to all the projects I've worked on. 
 
-# iOS Support
+# Universal Support
 
 ## Neuron 
 - https://github.com/wvabrinskas/Neuron
@@ -12,6 +12,8 @@ Neuron is a swift package I developed to help learn how to make neural networks.
 - https://github.com/wvabrinskas/Swift-Feistel-Cipher
 
 In cryptography, a Feistel cipher is a symmetric structure used in the construction of block ciphers. A large proportion of block ciphers use the scheme, including the Data Encryption Standard (DES). The Feistel structure has the advantage that encryption and decryption operations are very similar, even identical in some cases, requiring only a reversal of the key schedule
+
+# iOS Support
 
 ## Procedural Terrain Generation 1D, 2D, and 3D
 - https://github.com/wvabrinskas/Swift-Procedural-Terrain-Generator
