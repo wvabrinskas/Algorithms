@@ -13,6 +13,11 @@ Neuron is a swift package I developed to help learn how to make neural networks.
 
 In cryptography, a Feistel cipher is a symmetric structure used in the construction of block ciphers. A large proportion of block ciphers use the scheme, including the Data Encryption Standard (DES). The Feistel structure has the advantage that encryption and decryption operations are very similar, even identical in some cases, requiring only a reversal of the key schedule
 
+## Farey Algorithm 
+- https://github.com/wvabrinskas/FareyAlgorithm
+
+In mathematics, the Farey sequence of order n is the sequence of completely reduced fractions, either between 0 and 1, or without this restriction, which when in lowest terms have denominators less than or equal to n, arranged in order of increasing size. This sequence can be used to narrow down a decimal number to its corresponding fraction. 
+
 # iOS Support
 
 ## Procedural Terrain Generation 1D, 2D, and 3D
